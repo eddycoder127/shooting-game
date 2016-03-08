@@ -1,0 +1,19 @@
+This is a 2-D shooting game made like angry birds where you have to hit targets with cannon shots avoiding obstacles. You have 15 cannon shots at maximum and a target dissappears if it is hit 2 times. Obstacles are present in between the pathway of cannon and targets which has to be avoided. You can zoom in and zoom out the screen as well as pan it left and right. You can use both mouse and keyboard to set the angle of projectile with a minor change in the code ;)
+
+
+Controls:
+
+UP - increases cannon speed
+DOWN - decreases cannon speed
+LEFT - increases cannon angle
+RIGHT - decreases cannon angle
+SPACE - shoot 
+W - zoom in
+S - zoom out
+A - pan left
+D - pan right
+
+
+Scoring:
+
+50 points for hitting the target
